@@ -18,3 +18,6 @@ Working on bringing the app to Google Play.
 Android 4.0 and up is required (covering the most of potential users).
 
 Current app functionality is delivered in a form of a widget.
+
+Link to the app:
+https://raw.githubusercontent.com/a-russo/spreadcoin-android-app/master/spreadcoin.zip
